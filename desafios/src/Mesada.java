@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DesafioMesada {
+public class Mesada {
 
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
